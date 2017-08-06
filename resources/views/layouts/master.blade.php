@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>InnFact | Laravel CMS</title>
+	<title>Aqe | Laravel CMS</title>
 	<link rel="stylesheet" href="{{ URL::asset('css/app.css') }}">
 	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> -->
 
